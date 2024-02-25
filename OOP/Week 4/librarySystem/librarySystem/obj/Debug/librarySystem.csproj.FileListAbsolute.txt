@@ -1,0 +1,7 @@
+C:\Users\musno\OneDrive\Desktop\Semester 2\Object Oriented Programming\OOP LAB\Week 4\librarySystem\librarySystem\bin\Debug\librarySystem.exe.config
+C:\Users\musno\OneDrive\Desktop\Semester 2\Object Oriented Programming\OOP LAB\Week 4\librarySystem\librarySystem\bin\Debug\librarySystem.exe
+C:\Users\musno\OneDrive\Desktop\Semester 2\Object Oriented Programming\OOP LAB\Week 4\librarySystem\librarySystem\bin\Debug\librarySystem.pdb
+C:\Users\musno\OneDrive\Desktop\Semester 2\Object Oriented Programming\OOP LAB\Week 4\librarySystem\librarySystem\obj\Debug\librarySystem.csproj.AssemblyReference.cache
+C:\Users\musno\OneDrive\Desktop\Semester 2\Object Oriented Programming\OOP LAB\Week 4\librarySystem\librarySystem\obj\Debug\librarySystem.csproj.CoreCompileInputs.cache
+C:\Users\musno\OneDrive\Desktop\Semester 2\Object Oriented Programming\OOP LAB\Week 4\librarySystem\librarySystem\obj\Debug\librarySystem.exe
+C:\Users\musno\OneDrive\Desktop\Semester 2\Object Oriented Programming\OOP LAB\Week 4\librarySystem\librarySystem\obj\Debug\librarySystem.pdb

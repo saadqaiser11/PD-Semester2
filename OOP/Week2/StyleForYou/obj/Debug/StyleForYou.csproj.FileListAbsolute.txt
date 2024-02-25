@@ -1,0 +1,7 @@
+C:\Users\Tab & Tech\source\repos\StyleForYou\bin\Debug\StyleForYou.exe.config
+C:\Users\Tab & Tech\source\repos\StyleForYou\bin\Debug\StyleForYou.exe
+C:\Users\Tab & Tech\source\repos\StyleForYou\bin\Debug\StyleForYou.pdb
+C:\Users\Tab & Tech\source\repos\StyleForYou\obj\Debug\StyleForYou.csproj.AssemblyReference.cache
+C:\Users\Tab & Tech\source\repos\StyleForYou\obj\Debug\StyleForYou.csproj.CoreCompileInputs.cache
+C:\Users\Tab & Tech\source\repos\StyleForYou\obj\Debug\StyleForYou.exe
+C:\Users\Tab & Tech\source\repos\StyleForYou\obj\Debug\StyleForYou.pdb

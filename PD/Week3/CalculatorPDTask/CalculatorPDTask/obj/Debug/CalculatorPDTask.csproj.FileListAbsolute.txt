@@ -1,0 +1,7 @@
+C:\Users\musno\OneDrive\Desktop\CalculatorPDTask\CalculatorPDTask\bin\Debug\CalculatorPDTask.exe.config
+C:\Users\musno\OneDrive\Desktop\CalculatorPDTask\CalculatorPDTask\bin\Debug\CalculatorPDTask.exe
+C:\Users\musno\OneDrive\Desktop\CalculatorPDTask\CalculatorPDTask\bin\Debug\CalculatorPDTask.pdb
+C:\Users\musno\OneDrive\Desktop\CalculatorPDTask\CalculatorPDTask\obj\Debug\CalculatorPDTask.csproj.AssemblyReference.cache
+C:\Users\musno\OneDrive\Desktop\CalculatorPDTask\CalculatorPDTask\obj\Debug\CalculatorPDTask.csproj.CoreCompileInputs.cache
+C:\Users\musno\OneDrive\Desktop\CalculatorPDTask\CalculatorPDTask\obj\Debug\CalculatorPDTask.exe
+C:\Users\musno\OneDrive\Desktop\CalculatorPDTask\CalculatorPDTask\obj\Debug\CalculatorPDTask.pdb
